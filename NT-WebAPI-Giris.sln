@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.438
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAPI-Giris", "WebAPI-Giris\WebAPI-Giris.csproj", "{E9F4385D-C34B-401B-BE4C-2E512332E3E3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E9F4385D-C34B-401B-BE4C-2E512332E3E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9F4385D-C34B-401B-BE4C-2E512332E3E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9F4385D-C34B-401B-BE4C-2E512332E3E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9F4385D-C34B-401B-BE4C-2E512332E3E3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A7F5EA89-FDCC-4DB3-978A-2CA66F45D8CE}
+	EndGlobalSection
+EndGlobal
